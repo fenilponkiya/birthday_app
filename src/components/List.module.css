@@ -1,0 +1,16 @@
+img{
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: var(--light-shadow);
+    position:absolute;
+padding:2rem;
+margin-top: 1rem; 
+}
+.boxx{
+    text-align: left;
+    position:relative;
+   margin-left: 7rem;
+    padding:2rem;
+}
